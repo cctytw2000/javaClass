@@ -1,0 +1,794 @@
+[
+    {
+        "year": "106年",
+        "month": "1",
+        "type": "土制槍枝",
+        "Quantity": "24"
+    },
+    {
+        "year": "106年",
+        "month": "1",
+        "type": "土製炸彈",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "1",
+        "type": "子彈",
+        "Quantity": "106"
+    },
+    {
+        "year": "106年",
+        "month": "1",
+        "type": "手榴彈",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "1",
+        "type": "瓦斯槍枝",
+        "Quantity": "1"
+    },
+    {
+        "year": "106年",
+        "month": "1",
+        "type": "其他槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "1",
+        "type": "其它彈藥",
+        "Quantity": "383"
+    },
+    {
+        "year": "106年",
+        "month": "1",
+        "type": "制式長槍",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "1",
+        "type": "制式短槍",
+        "Quantity": "2"
+    },
+    {
+        "year": "106年",
+        "month": "1",
+        "type": "空氣槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "1",
+        "type": "彈藥合計",
+        "Quantity": "489"
+    },
+    {
+        "year": "106年",
+        "month": "10",
+        "type": "土制槍枝",
+        "Quantity": "20"
+    },
+    {
+        "year": "106年",
+        "month": "10",
+        "type": "土製炸彈",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "10",
+        "type": "子彈",
+        "Quantity": "871"
+    },
+    {
+        "year": "106年",
+        "month": "10",
+        "type": "手榴彈",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "10",
+        "type": "瓦斯槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "10",
+        "type": "其他槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "10",
+        "type": "其它彈藥",
+        "Quantity": "110"
+    },
+    {
+        "year": "106年",
+        "month": "10",
+        "type": "制式長槍",
+        "Quantity": "1"
+    },
+    {
+        "year": "106年",
+        "month": "10",
+        "type": "制式短槍",
+        "Quantity": "4"
+    },
+    {
+        "year": "106年",
+        "month": "10",
+        "type": "空氣槍枝",
+        "Quantity": "1"
+    },
+    {
+        "year": "106年",
+        "month": "10",
+        "type": "彈藥合計",
+        "Quantity": "981"
+    },
+    {
+        "year": "106年",
+        "month": "11",
+        "type": "土制槍枝",
+        "Quantity": "14"
+    },
+    {
+        "year": "106年",
+        "month": "11",
+        "type": "土製炸彈",
+        "Quantity": "1"
+    },
+    {
+        "year": "106年",
+        "month": "11",
+        "type": "子彈",
+        "Quantity": "65"
+    },
+    {
+        "year": "106年",
+        "month": "11",
+        "type": "手榴彈",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "11",
+        "type": "瓦斯槍枝",
+        "Quantity": "1"
+    },
+    {
+        "year": "106年",
+        "month": "11",
+        "type": "其他槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "11",
+        "type": "其它彈藥",
+        "Quantity": "145"
+    },
+    {
+        "year": "106年",
+        "month": "11",
+        "type": "制式長槍",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "11",
+        "type": "制式短槍",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "11",
+        "type": "空氣槍枝",
+        "Quantity": "1"
+    },
+    {
+        "year": "106年",
+        "month": "11",
+        "type": "彈藥合計",
+        "Quantity": "211"
+    },
+    {
+        "year": "106年",
+        "month": "12",
+        "type": "土制槍枝",
+        "Quantity": "22"
+    },
+    {
+        "year": "106年",
+        "month": "12",
+        "type": "土製炸彈",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "12",
+        "type": "子彈",
+        "Quantity": "118"
+    },
+    {
+        "year": "106年",
+        "month": "12",
+        "type": "手榴彈",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "12",
+        "type": "瓦斯槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "12",
+        "type": "其他槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "12",
+        "type": "其它彈藥",
+        "Quantity": "157"
+    },
+    {
+        "year": "106年",
+        "month": "12",
+        "type": "制式長槍",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "12",
+        "type": "制式短槍",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "12",
+        "type": "空氣槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "12",
+        "type": "彈藥合計",
+        "Quantity": "275"
+    },
+    {
+        "year": "106年",
+        "month": "2",
+        "type": "土制槍枝",
+        "Quantity": "8"
+    },
+    {
+        "year": "106年",
+        "month": "2",
+        "type": "土製炸彈",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "2",
+        "type": "子彈",
+        "Quantity": "5"
+    },
+    {
+        "year": "106年",
+        "month": "2",
+        "type": "手榴彈",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "2",
+        "type": "瓦斯槍枝",
+        "Quantity": "1"
+    },
+    {
+        "year": "106年",
+        "month": "2",
+        "type": "其他槍枝",
+        "Quantity": "1"
+    },
+    {
+        "year": "106年",
+        "month": "2",
+        "type": "其它彈藥",
+        "Quantity": "28"
+    },
+    {
+        "year": "106年",
+        "month": "2",
+        "type": "制式長槍",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "2",
+        "type": "制式短槍",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "2",
+        "type": "空氣槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "2",
+        "type": "彈藥合計",
+        "Quantity": "33"
+    },
+    {
+        "year": "106年",
+        "month": "3",
+        "type": "土制槍枝",
+        "Quantity": "16"
+    },
+    {
+        "year": "106年",
+        "month": "3",
+        "type": "土製炸彈",
+        "Quantity": "2"
+    },
+    {
+        "year": "106年",
+        "month": "3",
+        "type": "子彈",
+        "Quantity": "69"
+    },
+    {
+        "year": "106年",
+        "month": "3",
+        "type": "手榴彈",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "3",
+        "type": "瓦斯槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "3",
+        "type": "其他槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "3",
+        "type": "其它彈藥",
+        "Quantity": "762"
+    },
+    {
+        "year": "106年",
+        "month": "3",
+        "type": "制式長槍",
+        "Quantity": "1"
+    },
+    {
+        "year": "106年",
+        "month": "3",
+        "type": "制式短槍",
+        "Quantity": "1"
+    },
+    {
+        "year": "106年",
+        "month": "3",
+        "type": "空氣槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "3",
+        "type": "彈藥合計",
+        "Quantity": "833"
+    },
+    {
+        "year": "106年",
+        "month": "4",
+        "type": "土制槍枝",
+        "Quantity": "15"
+    },
+    {
+        "year": "106年",
+        "month": "4",
+        "type": "土製炸彈",
+        "Quantity": "1"
+    },
+    {
+        "year": "106年",
+        "month": "4",
+        "type": "子彈",
+        "Quantity": "11"
+    },
+    {
+        "year": "106年",
+        "month": "4",
+        "type": "手榴彈",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "4",
+        "type": "瓦斯槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "4",
+        "type": "其他槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "4",
+        "type": "其它彈藥",
+        "Quantity": "146"
+    },
+    {
+        "year": "106年",
+        "month": "4",
+        "type": "制式長槍",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "4",
+        "type": "制式短槍",
+        "Quantity": "1"
+    },
+    {
+        "year": "106年",
+        "month": "4",
+        "type": "空氣槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "4",
+        "type": "彈藥合計",
+        "Quantity": "158"
+    },
+    {
+        "year": "106年",
+        "month": "5",
+        "type": "土制槍枝",
+        "Quantity": "22"
+    },
+    {
+        "year": "106年",
+        "month": "5",
+        "type": "土製炸彈",
+        "Quantity": "3"
+    },
+    {
+        "year": "106年",
+        "month": "5",
+        "type": "子彈",
+        "Quantity": "161"
+    },
+    {
+        "year": "106年",
+        "month": "5",
+        "type": "手榴彈",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "5",
+        "type": "瓦斯槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "5",
+        "type": "其他槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "5",
+        "type": "其它彈藥",
+        "Quantity": "90"
+    },
+    {
+        "year": "106年",
+        "month": "5",
+        "type": "制式長槍",
+        "Quantity": "1"
+    },
+    {
+        "year": "106年",
+        "month": "5",
+        "type": "制式短槍",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "5",
+        "type": "空氣槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "5",
+        "type": "彈藥合計",
+        "Quantity": "254"
+    },
+    {
+        "year": "106年",
+        "month": "6",
+        "type": "土制槍枝",
+        "Quantity": "25"
+    },
+    {
+        "year": "106年",
+        "month": "6",
+        "type": "土製炸彈",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "6",
+        "type": "子彈",
+        "Quantity": "37"
+    },
+    {
+        "year": "106年",
+        "month": "6",
+        "type": "手榴彈",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "6",
+        "type": "瓦斯槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "6",
+        "type": "其他槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "6",
+        "type": "其它彈藥",
+        "Quantity": "148"
+    },
+    {
+        "year": "106年",
+        "month": "6",
+        "type": "制式長槍",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "6",
+        "type": "制式短槍",
+        "Quantity": "2"
+    },
+    {
+        "year": "106年",
+        "month": "6",
+        "type": "空氣槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "6",
+        "type": "彈藥合計",
+        "Quantity": "185"
+    },
+    {
+        "year": "106年",
+        "month": "7",
+        "type": "土制槍枝",
+        "Quantity": "29"
+    },
+    {
+        "year": "106年",
+        "month": "7",
+        "type": "土製炸彈",
+        "Quantity": "12"
+    },
+    {
+        "year": "106年",
+        "month": "7",
+        "type": "子彈",
+        "Quantity": "87"
+    },
+    {
+        "year": "106年",
+        "month": "7",
+        "type": "手榴彈",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "7",
+        "type": "瓦斯槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "7",
+        "type": "其他槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "7",
+        "type": "其它彈藥",
+        "Quantity": "252"
+    },
+    {
+        "year": "106年",
+        "month": "7",
+        "type": "制式長槍",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "7",
+        "type": "制式短槍",
+        "Quantity": "4"
+    },
+    {
+        "year": "106年",
+        "month": "7",
+        "type": "空氣槍枝",
+        "Quantity": "2"
+    },
+    {
+        "year": "106年",
+        "month": "7",
+        "type": "彈藥合計",
+        "Quantity": "351"
+    },
+    {
+        "year": "106年",
+        "month": "8",
+        "type": "土制槍枝",
+        "Quantity": "25"
+    },
+    {
+        "year": "106年",
+        "month": "8",
+        "type": "土製炸彈",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "8",
+        "type": "子彈",
+        "Quantity": "35"
+    },
+    {
+        "year": "106年",
+        "month": "8",
+        "type": "手榴彈",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "8",
+        "type": "瓦斯槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "8",
+        "type": "其他槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "8",
+        "type": "其它彈藥",
+        "Quantity": "235"
+    },
+    {
+        "year": "106年",
+        "month": "8",
+        "type": "制式長槍",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "8",
+        "type": "制式短槍",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "8",
+        "type": "空氣槍枝",
+        "Quantity": "1"
+    },
+    {
+        "year": "106年",
+        "month": "8",
+        "type": "彈藥合計",
+        "Quantity": "270"
+    },
+    {
+        "year": "106年",
+        "month": "9",
+        "type": "土制槍枝",
+        "Quantity": "14"
+    },
+    {
+        "year": "106年",
+        "month": "9",
+        "type": "土製炸彈",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "9",
+        "type": "子彈",
+        "Quantity": "65"
+    },
+    {
+        "year": "106年",
+        "month": "9",
+        "type": "手榴彈",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "9",
+        "type": "瓦斯槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "9",
+        "type": "其他槍枝",
+        "Quantity": "1"
+    },
+    {
+        "year": "106年",
+        "month": "9",
+        "type": "其它彈藥",
+        "Quantity": "399"
+    },
+    {
+        "year": "106年",
+        "month": "9",
+        "type": "制式長槍",
+        "Quantity": "1"
+    },
+    {
+        "year": "106年",
+        "month": "9",
+        "type": "制式短槍",
+        "Quantity": "5"
+    },
+    {
+        "year": "106年",
+        "month": "9",
+        "type": "空氣槍枝",
+        "Quantity": "0"
+    },
+    {
+        "year": "106年",
+        "month": "9",
+        "type": "彈藥合計",
+        "Quantity": "464"
+    }
+]
